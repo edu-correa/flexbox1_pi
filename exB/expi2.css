@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+}
+#divMain{
+    width: 150px;
+    height: 900px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction:column;
+}
+#div1{
+    width: 150px;
+    background-color: aqua;
+    height: 150px;
+}
+#div2{
+    width: 150px;
+    background-color: red;
+    height: 150px;
+}
+#div3{
+    width: 150px;
+    background-color: blue;
+    height: 150px;
+}
+#div4{
+    width: 150px;
+    background-color: orange;
+    height: 150px;
+}
